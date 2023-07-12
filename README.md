@@ -1,11 +1,13 @@
-
-
-- 👋 Hi, I’m @RetroInsider
+- 👋 Hi, I’m @RetroInsider!
 - 👀 I’m interested in technolgy (duh).
 - 🌱 I’m currently learning JavaScript and probably LUA.
 - 📫 How to reach me: Discord (retroinsider).
+- 👨‍💻 I'm trying to use GitHub more and trying to make more and useful codes & softwares.
 
-  [![RetroInsider's GitHub stats](https://github-readme-stats.vercel.app/api?username=retroinsider)](https://github.com/anuraghazra/github-readme-stats)
+#### Languages and tools that I use:
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][]
+
+![RetroInsider's GitHub stats](https://github-readme-stats.vercel.app/api?username=retroinsider&show_icons=true&theme=github_dark&count_private=true)
 
 <!---
 RetroInsider/RetroInsider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
