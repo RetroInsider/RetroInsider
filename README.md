@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RetroInsider!
-- 👀 I’m interested in technolgy (duh).
-- 🌱 I’m currently learning JavaScript and probably LUA.
+- 👀 I’m interested in technology (duh).
+- 🌱 I’m currently learning Luau, Python, and more.
 - 📫 How to reach me: Discord (retroinsider).
 - 👨‍💻 I'm trying to use GitHub more and trying to make more and useful codes & softwares.
 
